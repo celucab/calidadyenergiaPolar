@@ -1527,7 +1527,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.66QahyCcXSX.5qJiWGHUXEp" displaytext="Sistema de distribución eléctrico" expand="true" type="slide">
+        <slidelink slideid="_player.66QahyCcXSX.5qJiWGHUXEp" displaytext="Sistema de distribución eléctrico" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.66QahyCcXSX.6lNXfo1qCx2" displaytext="Objetivo" expand="false" type="slide" />
             <slidelink slideid="_player.66QahyCcXSX.6hKLGMnkIzW" displaytext="Introducción" expand="false" type="slide" />
@@ -1539,7 +1539,7 @@
         <slidelink slideid="_player.6Rhs6TY5517.5oYNByYWiBi" displaytext="La represa de las Tres Gargantas" expand="false" type="slide" />
         <slidelink slideid="_player.6Rhs6TY5517.69IAIA1A39h" displaytext="Embalse del Guri" expand="false" type="slide" />
         <slidelink slideid="_player.6Rhs6TY5517.5nWtH6BArYj" displaytext="Tipos de plantas generadoras en Venezuela" expand="false" type="slide" />
-        <slidelink slideid="_player.5zddg5AtWZR.6duojx8XtCb" displaytext="Actividades" expand="true" type="slide">
+        <slidelink slideid="_player.5zddg5AtWZR.6duojx8XtCb" displaytext="Actividades" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5zddg5AtWZR.6TpxAyHtWWQ" displaytext="Pregunta 1" expand="false" type="slide" />
             <slidelink slideid="_player.5zddg5AtWZR.5y4ACE8othS" displaytext="Pregunta 2" expand="false" type="slide" />
